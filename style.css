@@ -2,11 +2,19 @@ h1 {
     color: blue;
 }
 
-ul {
-    list-style: none;
+.bigheader { 
+    color: #0061FE; 
+    font-family: serif; 
+    font-size: 50px; 
+    font-weight: normal; 
+    line-height: 54px; 
+    margin: 0 0 54px; 
 }
 
-ul li:before {
-    content: "\2665";
-    color: #9c5597;
+.thecompany {
+   font-size: 20px;
+   font-style: italic;
+   line-height: 1.1em;
+   font-weight: 600;
 }
+
